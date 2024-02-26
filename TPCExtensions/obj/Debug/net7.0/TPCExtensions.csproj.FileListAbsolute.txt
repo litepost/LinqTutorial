@@ -1,0 +1,11 @@
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/bin/Debug/net7.0/TPCExtensions.deps.json
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/bin/Debug/net7.0/TPCExtensions.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/bin/Debug/net7.0/TPCExtensions.pdb
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.AssemblyInfoInputs.cache
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.AssemblyInfo.cs
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.csproj.CoreCompileInputs.cache
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/refint/TPCExtensions.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/TPCExtensions.pdb
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/obj/Debug/net7.0/ref/TPCExtensions.dll

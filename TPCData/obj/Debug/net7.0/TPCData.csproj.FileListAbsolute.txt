@@ -1,0 +1,11 @@
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/bin/Debug/net7.0/TPCData.deps.json
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/bin/Debug/net7.0/TPCData.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/bin/Debug/net7.0/TPCData.pdb
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.AssemblyInfoInputs.cache
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.AssemblyInfo.cs
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.csproj.CoreCompileInputs.cache
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/refint/TPCData.dll
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/TPCData.pdb
+/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/obj/Debug/net7.0/ref/TPCData.dll

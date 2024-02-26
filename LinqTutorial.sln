@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePretendCompany", "ThePretendCompany\ThePretendCompany.csproj", "{67AF8FF5-4921-481D-8736-211B2CB7E1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCData", "TPCData\TPCData.csproj", "{B6FE89CA-1A70-4F84-A2F9-8942193FE33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCExtensions", "TPCExtensions\TPCExtensions.csproj", "{C007C3AC-F1B6-468E-906A-C214E5B9CDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AF8FF5-4921-481D-8736-211B2CB7E1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AF8FF5-4921-481D-8736-211B2CB7E1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AF8FF5-4921-481D-8736-211B2CB7E1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AF8FF5-4921-481D-8736-211B2CB7E1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FE89CA-1A70-4F84-A2F9-8942193FE33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FE89CA-1A70-4F84-A2F9-8942193FE33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FE89CA-1A70-4F84-A2F9-8942193FE33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FE89CA-1A70-4F84-A2F9-8942193FE33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C007C3AC-F1B6-468E-906A-C214E5B9CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007C3AC-F1B6-468E-906A-C214E5B9CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C007C3AC-F1B6-468E-906A-C214E5B9CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007C3AC-F1B6-468E-906A-C214E5B9CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

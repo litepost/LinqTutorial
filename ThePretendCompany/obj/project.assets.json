@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TPCData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TPCData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPCData.dll": {}
+        }
+      },
+      "TPCExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TPCExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPCExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPCData/1.0.0": {
+      "type": "project",
+      "path": "../TPCData/TPCData.csproj",
+      "msbuildProject": "../TPCData/TPCData.csproj"
+    },
+    "TPCExtensions/1.0.0": {
+      "type": "project",
+      "path": "../TPCExtensions/TPCExtensions.csproj",
+      "msbuildProject": "../TPCExtensions/TPCExtensions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TPCData >= 1.0.0",
+      "TPCExtensions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jleupold/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jleupold/Documents/DotNet/LinqTutorial/ThePretendCompany/ThePretendCompany.csproj",
+      "projectName": "ThePretendCompany",
+      "projectPath": "/Users/jleupold/Documents/DotNet/LinqTutorial/ThePretendCompany/ThePretendCompany.csproj",
+      "packagesPath": "/Users/jleupold/.nuget/packages/",
+      "outputPath": "/Users/jleupold/Documents/DotNet/LinqTutorial/ThePretendCompany/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jleupold/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/TPCData.csproj": {
+              "projectPath": "/Users/jleupold/Documents/DotNet/LinqTutorial/TPCData/TPCData.csproj"
+            },
+            "/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/TPCExtensions.csproj": {
+              "projectPath": "/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/TPCExtensions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

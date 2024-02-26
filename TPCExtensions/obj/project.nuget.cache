@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y7NHPwWpb0NVioN740Sad7XUqDG4Asa20g3aJ+x7/vHJNIqyJ03NXbL13roHTGfnUN07GMg4hwl8USo0PSsweg==",
+  "success": true,
+  "projectFilePath": "/Users/jleupold/Documents/DotNet/LinqTutorial/TPCExtensions/TPCExtensions.csproj",
+  "expectedPackageFiles": [
+    "/Users/jleupold/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/jleupold/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

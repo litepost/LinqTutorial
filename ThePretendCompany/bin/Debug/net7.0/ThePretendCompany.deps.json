@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ThePretendCompany/1.0.0": {
+        "dependencies": {
+          "TPCData": "1.0.0",
+          "TPCExtensions": "1.0.0"
+        },
+        "runtime": {
+          "ThePretendCompany.dll": {}
+        }
+      },
+      "TPCData/1.0.0": {
+        "runtime": {
+          "TPCData.dll": {}
+        }
+      },
+      "TPCExtensions/1.0.0": {
+        "runtime": {
+          "TPCExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThePretendCompany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPCData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPCExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
